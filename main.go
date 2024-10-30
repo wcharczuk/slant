@@ -5,7 +5,7 @@ import (
 	"os"
 	"strings"
 
-	"go.charczuk.com/sdk/slant"
+	"github.com/wcharczuk/slant/slant"
 )
 
 func main() {
